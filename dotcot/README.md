@@ -1,10 +1,9 @@
 # [DotCot by VentureCat](https://peaceful-woodland-39661.herokuapp.com/welcome) 
 
 **DotCot** lets investors create custom forms to allow startups to apply for venture capital funding. During the development process I took on the following roles and responsibilties. 
-   - Lead a core feature team of three with an agile workflow using Trello, Git flow, and regular stand-ups 
-   - Implemented authentication flow using Passport with Google, Facebook, and LinkedIn Strategies 
-   - Built a scalable backend for the application’s REST Api using Express.js and MongoDB complete with session persistence, error handling, and unit-testing with Mocha 
-   - Configured scripts for efficient Continuous Integration to ensure a seamless development experience 
+   - Built the form page custom to each investor’s requested fields, including file uploads
+   - Used styled-components for UI and Formik to handle input fields, error handling, and validation
+   - Worked on a team of five with an agile workflow using Trello, Git flow, and regular stand-ups
 
 ### 📣 How does it work?
 
