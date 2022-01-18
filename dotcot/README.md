@@ -9,7 +9,7 @@
 
 1. Design a form containing only the fields you specify. Care about revenue? We got you. Don't care so much about location? Leave that field out
 2. Create an account to create a custom Url for your form, and share that Url with your network
-3. Check back in frequently to see updates to your form submissions on a 
+3. Check back in frequently to see updates to your form submissions on your own personal feed. You can even filter the results to see exactly what you want.
 
 ### 🛠 Technologies
 
